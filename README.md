@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	PICTURE
+	[Picture Placeholder]
 	<br>
 	SBCTF
 </h1>
