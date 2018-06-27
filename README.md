@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	[Picture Placeholder]
+	<img src="https://raw.githubusercontent.com/DaleNaci/SBCTF/master/favicon.ico" alt="SBCTF">
 	<br>
 	SBCTF
 </h1>
