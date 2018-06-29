@@ -14,7 +14,7 @@
 
 <h2>Who are we?</h2>
 
-<p>We are a group of high schoolers passionate about spreading the allurement of computer science to our peers. We are:</p>
+<p>We are a group of high schoolers passionate about spreading the beauty of computer science to our peers. We are:</p>
 
 <ul>
 	<li><a href="https://github.com/DaleNaci">Dale Nacianceno</a></li>
