@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/DaleNaci/SBCTF/master/favicon.ico" alt="SBCTF">
+	<img src="https://raw.githubusercontent.com/DaleNaci/SBCTF/master/images/logo.png" alt="SBCTF">
 	<br>
 	SBCTF
 </h1>
@@ -10,3 +10,4 @@
 <h1>What is Capture The Flag?</h1>
 
 <p>	Capture The Flag is a type of computer security competition where you hack, decrypt, reverse, and do whatever it takes to solve the puzzle!</p>
+
