@@ -9,5 +9,5 @@
 
 <h1>What is Capture The Flag?</h1>
 
-<p>	Capture The Flag is a type of computer security competition where you hack, decrypt, reverse, and do whatever it takes to solve the puzzle!</p>
+<p text-indent="50px">Capture The Flag is a type of computer security competition where you hack, decrypt, reverse, and do whatever it takes to solve the puzzle!</p>
 
