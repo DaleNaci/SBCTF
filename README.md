@@ -18,6 +18,6 @@
 
 <ul>
 	<li><a href="https://github.com/DaleNaci">Dale Nacianceno</a></li>
-	<li><a href="https://github.com/rishavb123">Rishav B.</a></li>
+	<li><a href="https://github.com/rishavb123">Rishav Bhagat</a></li>
 	<li><a href="https://github.com/saimaduri">Sai Maduri</a></li>
 </ul>
