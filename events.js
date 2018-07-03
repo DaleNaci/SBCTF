@@ -43,4 +43,4 @@ window.addEventListener("_event_onGetData", e => {
     firebase.database().ref(e.detail.reference).once("value", snap => {
         e.detail.callback(snap.val());
     });
-})
+});
