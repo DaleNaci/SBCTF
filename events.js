@@ -44,3 +44,19 @@ window.addEventListener("_event_onGetData", e => {
         e.detail.callback(snap.val());
     });
 });
+
+window.addEventListener("_event_onSetListenerOnData", e => {
+    let stop = false;
+    firebase.database().ref(e.detail.reference).on("value", snap => {
+        if(!stop && e.detail.callback(snap.val()))
+            stop = true;
+    });
+});
+
+window.addEventListener("_event_onSetData", e => {
+    firebase.database().ref(e.detail.reference).set(e.detail.data);
+});
+
+window.addEventListener("_event_onPushData", e => {
+    firebase.database().ref(e.detail.reference).push(e.detail.data);
+});
